@@ -1,16 +1,54 @@
-# React + Vite
+# Ankitha H. | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I'm a Computer Science and Engineering graduate interested in software development and building useful, user-friendly applications.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎓 B.E. in Computer Science and Engineering
+- 💻 Interested in full-stack development and software engineering
+- 🌱 Continuously learning and improving my technical skills
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Tools:** Vite, Git, GitHub, VS Code
+- **Libraries:** Framer Motion, Lucide React
 
-## Expanding the ESLint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Book My Ticket
+A ticket-booking application project.
+
+### Digital Assist to Indian Farming
+An agricultural assistance project focused on crop recommendations using soil and weather information.
+
+### Faculty Leave Management System
+A web application project focused on managing faculty leave requests.
+
+## Portfolio Features
+
+- Modern dark-themed design
+- Responsive layout
+- Animated sections
+- Project overviews
+- Skills and experience
+- Contact links for email, GitHub, and LinkedIn
+
+## Run Locally
+
+```bash
+git clone https://github.com/Ankitha09-source/ankitha-portfolio.git
+cd ankitha-portfolio
+npm install
+npm run dev
+```
+
+## Contact
+
+- **Email:** [hanganakattiankitha@gmail.com](mailto:hanganakattiankitha@gmail.com)
+- **GitHub:** [Ankitha09-source](https://github.com/Ankitha09-source)
+- **LinkedIn:** [Ankitha H.](https://www.linkedin.com/in/ankitha-h-6356792b8/)
+
+---
+
+⭐ Thanks for visiting my portfolio!
